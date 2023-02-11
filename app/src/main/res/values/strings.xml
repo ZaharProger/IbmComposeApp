@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IbmComposeApp</string>
+    <string name="app_header">Рассчитайте ваш ИМТ</string>
+    <string name="weight_hint">Ваш вес, кг</string>
+    <string name="height_hint">Ваш рост, см</string>
+    <string name="calculate_button_text">Рассчитать</string>
+    <string name="result_text">Ваш ИМТ</string>
+</resources>

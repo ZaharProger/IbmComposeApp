@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#FFFFFFFF</color>
+    <color name="primary_color">#FFE91E63</color>
+    <color name="secondary_color">#FFBB184F</color>
+    <color name="text_color">#FF303030</color>
+    <color name="indicator_line_color">#FF202020</color>
+    <color name="hint_color">#30303030</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>
